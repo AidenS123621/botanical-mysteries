@@ -1,1 +1,0 @@
-// Placeholder for pages/witchcraft-and-magic.js
