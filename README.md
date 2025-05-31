@@ -1,2 +1,1 @@
-# botanical-mysteries
-Botanical blog of lore and magic
+// Placeholder for README.md
