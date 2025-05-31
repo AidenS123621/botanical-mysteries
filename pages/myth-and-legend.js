@@ -1,0 +1,1 @@
+// Placeholder for pages/myth-and-legend.js

@@ -1,0 +1,1 @@
+// Placeholder for pages/submit-story.js

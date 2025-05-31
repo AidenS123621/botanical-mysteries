@@ -1,0 +1,1 @@
+// Placeholder for pages/seasons-and-sabbats.js
